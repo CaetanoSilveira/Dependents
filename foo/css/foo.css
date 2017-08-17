@@ -1,0 +1,14 @@
+/**
+ * @file
+ * Webform example composite styles.
+ */
+
+.foo_multiple-table--first_name {}
+
+.foo_multiple-table--last_name {}
+
+.foo_multiple-table--date_of_birth {}
+
+.foo_multiple-table--gender {
+  min-width: 100px;
+}

@@ -1,0 +1,7 @@
+foo:
+  version: VERSION
+  css:
+    theme:
+      css/foo.css: {}
+  dependencies:
+    - webform/webform.element.composite

@@ -1,0 +1,7 @@
+name: 'FOO'
+type: module
+description: 'This is foo.'
+package: 'Webform example'
+core: 8.x
+dependencies:
+  - 'drupal:webform'
