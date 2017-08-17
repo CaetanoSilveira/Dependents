@@ -3,9 +3,13 @@
  * Webform example composite styles.
  */
 
-.foo_multiple-table--first_name {}
+.foo_multiple-table {
+  background-color: #3CBC8D;
+  color: white;
+}
+.foo_multiple-table--dependent_name {}
 
-.foo_multiple-table--last_name {}
+.foo_multiple-table--dependent_ssn {}
 
 .foo_multiple-table--date_of_birth {}
 
