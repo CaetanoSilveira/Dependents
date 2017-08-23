@@ -1,0 +1,7 @@
+dependents_comp:
+  version: VERSION
+  css:
+    theme:
+      css/dependents_comp.css: {}
+  dependencies:
+    - webform/webform.element.composite
