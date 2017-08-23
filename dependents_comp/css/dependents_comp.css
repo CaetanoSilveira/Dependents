@@ -1,0 +1,18 @@
+/**
+ * @file
+ * Webform example composite styles.
+ */
+
+.dependents_comp_multiple-table {
+  background-color: #3CBC8D;
+  color: white;
+}
+.dependents_comp_multiple-table--dependent_name {}
+
+.dependents_comp_multiple-table--dependent_ssn {}
+
+.dependents_comp_multiple-table--date_of_birth {}
+
+.dependents_comp_multiple-table--gender {
+  min-width: 100px;
+}

@@ -1,0 +1,7 @@
+name: 'dependents_comp'
+type: module
+description: 'This is dependents_comp.'
+package: 'Webform example'
+core: 8.x
+dependencies:
+  - 'drupal:webform'
